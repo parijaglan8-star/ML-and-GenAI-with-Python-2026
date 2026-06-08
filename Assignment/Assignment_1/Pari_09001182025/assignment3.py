@@ -155,6 +155,6 @@ s2 = Student("Priya", 35)
 # Calling functions
 s1.display()
 s1.result()
-print("----------------------")
+print("---------------------")
 s2.display()
 s2.result()

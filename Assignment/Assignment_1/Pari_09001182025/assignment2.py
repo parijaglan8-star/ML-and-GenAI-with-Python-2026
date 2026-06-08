@@ -45,8 +45,8 @@ elif marks >= 60:
 else:
     grade = 'E'
 percentage = (marks/100)*100
-print("student name:",name)
-print("student age:",age)
-print("marks obtained:",marks)
-print("percentage:",percentage)
-print("grade:",grade)
+print("student name: ",name)
+print("student age: ",age)
+print("marks obtained: ",marks)
+print("percentage: ",percentage)
+print("grade: ",grade)

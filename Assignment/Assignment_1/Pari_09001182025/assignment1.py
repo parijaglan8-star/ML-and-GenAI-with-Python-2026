@@ -50,7 +50,7 @@ Total = Maths + English + Science
 Percentage = (Total/300)*100
 print("/n____STUDENT REPORT____")
 print("Name:",name)
-print("Roll number :",roll_no)
+print("Roll number:",roll_no)
 print("Maths marks:",Maths)
 print("English marks:",English)
 print("Science marks:",Science)
